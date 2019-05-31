@@ -6,7 +6,7 @@ Here are links to go to several project repositories related to my topic.
 
 1. Dynamic animation module applied in Fragment.
 
-    https://github.com/hjllge/FragmentTest2
+    https://github.com/hjllge/FragmentTest
 
 
 
