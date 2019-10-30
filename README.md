@@ -6,17 +6,17 @@ Here are links to go to several project repositories related to my topic.
 
 1. Dynamic animation module applied in Fragment.
 
-    https://github.com/hjllge/FragmentTest
+    https://github.com/hjllge/Smooth-Fragment-Module
 
 
 
 2. New Android widget using OpenGL ES for android.
 
-    https://github.com/hjllge/OpenGLTest
+    https://github.com/hjllge/Overscroll-ListView
 
 
 
 3. iphone-like widget using fundamental Android views.
 
-    https://github.com/hjllge/EffectRecyclerView
+    https://github.com/hjllge/Arc-ListView
 
